@@ -12,7 +12,7 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Dhruvil Shah
 #subtitle:
 subtitle: Data Scientist and Software Developer
 
@@ -88,14 +88,14 @@ links:
       show: false
       href: https://vine.co/YOUR_VINE_USERNAME
       icon: fab fa-vine
-  - facebook:
-      name: Facebook
-      show: false
-      href: https://facebook.com/YOUR_FB_USERNAME
-      icon: fab fa-facebook
+  - kaggle:
+      name: Kaggle
+      show: true
+      href: https://www.kaggle.com/dhruvilshah 
+      icon: fab fa-kaggle
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
@@ -173,6 +173,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: > 
-    https://www.kaggle.com/dhruvilshah    
+       
 
 #EOF
